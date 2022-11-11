@@ -32,7 +32,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/textview_border"
-        android:hint="Total Seats"
+        android:hint="Total Park"
         android:textColor="@color/black"
         android:textColorHint="#6F6E6E"
         android:textSize="25dp"

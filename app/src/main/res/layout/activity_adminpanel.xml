@@ -112,7 +112,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
         android:layout_marginEnd="135dp"
-        android:text="สถานะที่มีการจองอยู่ขณะนี้"
+        android:text="ช่องจอดรถที่มีการจองอยู่ขณะนี้"
         android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

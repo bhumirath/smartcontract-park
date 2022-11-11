@@ -20,6 +20,20 @@
         <entry key="..\:/project andoir/parking/app/src/main/res/layout/activity_updatepark.xml" value="0.1793478260869565" />
         <entry key="..\:/project andoir/parking/app/src/main/res/layout/activity_viewpark.xml" value="0.1793478260869565" />
         <entry key="..\:/project andoir/parking/app/src/main/res/layout/viewlistcontents_layout.xml" value="0.1793478260869565" />
+        <entry key="..\:/smartcontract-park/app/src/main/res/layout/activity_addpark.xml" value="0.2" />
+        <entry key="..\:/smartcontract-park/app/src/main/res/layout/activity_adminlogin.xml" value="0.1" />
+        <entry key="..\:/smartcontract-park/app/src/main/res/layout/activity_adminpanel.xml" value="0.1" />
+        <entry key="..\:/smartcontract-park/app/src/main/res/layout/activity_adminsignup.xml" value="0.1" />
+        <entry key="..\:/smartcontract-park/app/src/main/res/layout/activity_booking.xml" value="0.1" />
+        <entry key="..\:/smartcontract-park/app/src/main/res/layout/activity_deletebus.xml" value="0.1" />
+        <entry key="..\:/smartcontract-park/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/smartcontract-park/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/smartcontract-park/app/src/main/res/layout/activity_receipt.xml" value="0.1" />
+        <entry key="..\:/smartcontract-park/app/src/main/res/layout/activity_seat_selection.xml" value="0.1" />
+        <entry key="..\:/smartcontract-park/app/src/main/res/layout/activity_signup.xml" value="0.1" />
+        <entry key="..\:/smartcontract-park/app/src/main/res/layout/activity_updatepark.xml" value="0.1" />
+        <entry key="..\:/smartcontract-park/app/src/main/res/layout/activity_viewpark.xml" value="0.1" />
+        <entry key="..\:/smartcontract-park/app/src/main/res/layout/viewlistcontents_layout.xml" value="0.1" />
       </map>
     </option>
   </component>
