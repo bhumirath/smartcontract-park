@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project andoir/parking/app/src/main/res/drawable/ic_usr.xml" value="0.2985" />
+        <entry key="..\:/project andoir/parking/app/src/main/res/layout/activity_addpark.xml" value="0.1793478260869565" />
+        <entry key="..\:/project andoir/parking/app/src/main/res/layout/activity_adminlogin.xml" value="0.1793478260869565" />
+        <entry key="..\:/project andoir/parking/app/src/main/res/layout/activity_adminpanel.xml" value="0.1793478260869565" />
+        <entry key="..\:/project andoir/parking/app/src/main/res/layout/activity_adminsignup.xml" value="0.1793478260869565" />
+        <entry key="..\:/project andoir/parking/app/src/main/res/layout/activity_booking.xml" value="0.1793478260869565" />
+        <entry key="..\:/project andoir/parking/app/src/main/res/layout/activity_deletebus.xml" value="0.1793478260869565" />
+        <entry key="..\:/project andoir/parking/app/src/main/res/layout/activity_login.xml" value="0.358695652173913" />
+        <entry key="..\:/project andoir/parking/app/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/project andoir/parking/app/src/main/res/layout/activity_payment.xml" value="0.18802083333333333" />
+        <entry key="..\:/project andoir/parking/app/src/main/res/layout/activity_receipt.xml" value="0.17831813576494426" />
+        <entry key="..\:/project andoir/parking/app/src/main/res/layout/activity_seat_selection.xml" value="0.25" />
+        <entry key="..\:/project andoir/parking/app/src/main/res/layout/activity_showdatablockchain.xml" value="0.18" />
+        <entry key="..\:/project andoir/parking/app/src/main/res/layout/activity_signup.xml" value="0.1793478260869565" />
+        <entry key="..\:/project andoir/parking/app/src/main/res/layout/activity_updatepark.xml" value="0.1793478260869565" />
+        <entry key="..\:/project andoir/parking/app/src/main/res/layout/activity_viewpark.xml" value="0.1793478260869565" />
+        <entry key="..\:/project andoir/parking/app/src/main/res/layout/viewlistcontents_layout.xml" value="0.1793478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
